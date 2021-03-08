@@ -1,0 +1,9 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Battle.start();
+        // write your code here
+    }
+}

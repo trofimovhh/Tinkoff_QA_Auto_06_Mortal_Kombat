@@ -17,7 +17,7 @@ public class Cyborg extends Warrior implements CloseBattle, DistanceBattle {
 
     @Override
     public void closeBattleDefense() {
-        System.out.println(name + " laughs in the face of his opponent. He's freaking machine");
+        System.out.println(name + " laughs in the face of his opponent. He's a freaking machine");
     }
 
     @Override
